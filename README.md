@@ -3,7 +3,7 @@
 ![WhatsApp Image 2024-02-13 at 10 04 52 PM](https://github.com/DanKoffie/DanKoffie/assets/131831718/083fde49-be88-4b4a-a231-8f01c9897bfa)
 
 
-📈 I'm a proficient data analyst with expertise anchored in a solid foundation of technical skills across Python, SQL, R, MS Excel and  Power BI. This diverse toolkit enables me to extract, clean, model, visualize, and interpret data to uncover actionable business insights. My key areas of expertise include:
+📈 A proficient data analyst with expertise anchored in a solid foundation of technical skills across Python, SQL, R, MS Excel and  Power BI. This diverse toolkit enables me to extract, clean, model, visualize, and interpret data to uncover actionable business insights. My key areas of expertise include:
 
 👉Data Acquisition and Structuring: Mastery in extracting data from varied sources and organizing it for comprehensive analysis. 
 
