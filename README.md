@@ -18,9 +18,9 @@
 #### Hey there 🖐, I'm happy to let you know that: 
 
 - 📊 I am a data enthusiast
-- 💞️ My passion for data keeps me on my feet every now and then
+- 💞️ I am very passionate about businesses leveraging data analytics to derive insight
 - 📔 I'm currently reading Business and Data Analysis at the Postgraduate level
-- 👩🏿‍🤝‍👩🏽 Connect and lets collaborate on any business/data analytics project
+- 👩🏿‍🤝‍👩🏽 Connect with me and let's collaborate on any business/data analytics project
 - ✉ Contact me via email: **atsu.agbey@gmail.com** 
 
 
